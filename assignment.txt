@@ -1,0 +1,9 @@
+MY FIRST GITHUB ASSIGNMENT
+
+My name is Lorenzo.
+
+I have successfully created a GitHub repository
+and cloned it onto my local machine.
+
+I am learning how to use Git to add, commit
+and push changes to GitHub.
